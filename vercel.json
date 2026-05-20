@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "functions": {
+    "api/warp.js": {
+      "runtime": "nodejs18.x",
+      "maxDuration": 30
+    }
+  },
+  "routes": [
+    {
+      "src": "/api/warp",
+      "dest": "/api/warp.js"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "warp-api",
+  "version": "1.0.0",
+  "description": "Cloudflare WARP session generator — Vercel serverless API",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.x"
+  }
+}
